@@ -9,25 +9,25 @@ const ContactForm = () => {
 
     const onSubmit = async (data) => {
 
-        try {
-            const response = await fetch("http://localhost:5000/", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify(data)
-            });
+        // try {
+        //     const response = await fetch("http://localhost:5000/", {
+        //         method: "POST",
+        //         headers: { "Content-Type": "application/json" },
+        //         body: JSON.stringify(data)
+        //     });
 
-            if (response.ok) {
-                setPopupMessage("Your message has been sent!");
-            } else {
-                setPopupMessage("Failed to send your message. Please try again.");
-            }
+        //     if (response.ok) {
+        //         setPopupMessage("Your message has been sent!");
+        //     } else {
+        //         setPopupMessage("Failed to send your message. Please try again.");
+        //     }
 
-            reset();
-            setShowPopup(true);
-        } catch (error) {
-            setPopupMessage("An error occurred. Please try again.");
-            setShowPopup(true);
-        }
+        //     reset();
+        //     setShowPopup(true);
+        // } catch (error) {
+        //     setPopupMessage("An error occurred. Please try again.");
+        //     setShowPopup(true);
+        // }
     }
 
     useEffect(() => {
