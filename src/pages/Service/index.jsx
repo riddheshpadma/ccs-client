@@ -1,7 +1,5 @@
 import React from 'react'
-import Navbar from '../../components/Navbar'
 
-import HeroBg from '../../assets/img/services/service.jpg'
 import Illustration1 from '../../assets/img/services/illustration1.svg'
 import Illustration2 from '../../assets/img/services/illustration2.svg'
 import Illustration3 from '../../assets/img/services/illustration3.svg'
@@ -46,7 +44,7 @@ const index = () => {
                         </div>
                     </div>
                     <div className='flex flex-col justify-center items-center'>
-                        <img src={Illustration1} alt="" />
+                        <img src={Illustration3} alt="" />
                         <div className='relative flex items-center justify-center overflow-visible border-2 border-dashed border-black w-full mt-14'>
                             <div className='absolute py-4 px-6 rounded-full bg-[#cacf82]'>3</div>
                         </div>

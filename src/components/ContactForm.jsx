@@ -3,9 +3,9 @@ import { useForm } from "react-hook-form"
 
 
 const ContactForm = () => {
-    const { register, handleSubmit, reset } = useForm()
+    const { register, handleSubmit } = useForm()
     const [showPopup, setShowPopup] = useState(false);
-    const [popupMessage, setPopupMessage] = useState("");
+    // const [popupMessage, setPopupMessage] = useState("");
 
     const onSubmit = async (data) => {
 

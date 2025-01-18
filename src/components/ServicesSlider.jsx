@@ -1,15 +1,12 @@
 import React from 'react'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Slider from "react-slick";
-import { Link } from 'react-router-dom'; // Import Link
 import "../index.css"
 import webapp from '../assets/img/services/webapp.jpg'
 import mobileapp from '../assets/img/services/mobileapp.jpg'
 import uiux from '../assets/img/services/uiux.jpg'
 import qatesting from '../assets/img/services/qatesting.jpg'
 import maintancesupport from '../assets/img/services/maintanancesupport.jpg'
-import BlogBtn from './BlogBtn';
 
 const services_data = [
     {

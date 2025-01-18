@@ -3,7 +3,6 @@ import { TbSmartHome } from "react-icons/tb";
 import { BiCategory } from "react-icons/bi";
 import { GoPerson } from "react-icons/go";
 import { FaServicestack } from "react-icons/fa6";
-import { FaBlog } from "react-icons/fa";
 import { TfiEmail } from "react-icons/tfi";
 import { Link } from 'react-router-dom';
 
