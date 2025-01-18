@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import { FaResearchgate } from "react-icons/fa";
 import Brand from "../assets/img/Brand.png"
 import { Link } from 'react-router-dom';
 
