@@ -2,10 +2,9 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 import ContactForm from './ContactForm';
 import hero1 from '../assets/img/hero1.webp'
-import { LuLinkedin, LuGithub } from "react-icons/lu";
+import { LuLinkedin } from "react-icons/lu";
 import { RiTwitterXFill } from "react-icons/ri";
 import { BsInstagram } from "react-icons/bs";
-import { AiOutlineDiscord } from "react-icons/ai";
 const ContactUs = () => {
   return (
     <React.Fragment>

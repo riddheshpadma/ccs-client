@@ -42,25 +42,7 @@ const services_data = [
 ]
 
 const Services = () => {
-    const settings = {
-        dots: true,
-        infinite: true,
 
-        speed: 1000,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        autoplay: true,        // Ensure this is true
-        autoplaySpeed: 3000,
-        cssEase: "linear",
-        pauseOnHover: true,
-        swipeToSlide: true,
-        afterChange: function (index) {
-            console.log(
-                `Slider Changed to: ${index + 1}, background: #222; color: #bada55`
-            );
-        },
-        arrows: false
-    };
 
     return (
         <div className='container grid grid-cols-1 gap-4 md:grid-cols-2 px-4 py-8'>
