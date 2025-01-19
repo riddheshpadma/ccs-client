@@ -86,7 +86,7 @@ export const index = () => {
             </div>
             <div className='flex lg:flex-row flex-col items-center justify-between'>
               <div className='flex-1'>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt, possimus autem perspiciatis nam qui consequuntur sed corrupti, eveniet cupiditate numquam maiores facere laudantium dolorum explicabo dolor officia. Temporibus necessitatibus officia ab iusto aperiam, distinctio rem laudantium quos nesciunt, assumenda ipsum.</p>
+                <p>Empowering businesses with cutting-edge digital solutions, we specialize in web and mobile app development, intuitive UI/UX design, e-commerce platforms, and custom software tailored to meet unique needs. Our expertise extends to digital marketing and reliable maintenance, ensuring your online presence is impactful, secure, and always evolving with your goals.</p>
               </div>
               <div className='flex flex-1 max-w-md  items-center justify-start p-10 text-white'>
                 <Link to="/services">
@@ -118,8 +118,7 @@ export const index = () => {
             </div>
             <div className='flex flex-col md:flex-col md:w-3/4'>
               <div className='p-5 md:p-0'>
-                <p className='md:pr-20 mb-4 text-sm'>At <span className='font-bold'>Padma Sphere Services</span > we are passionate about turning ideas into reality through innovative technology solutions. Founded with the vision to empower businesses, we specialize in delivering high-quality software and application development services that cater to diverse needs, whether you’re a startup seeking to make your mark or an established organization aiming to enhance your digital presence. <br /> Our team comprises talented developers, designers, and strategists committed to crafting tailored solutions. From web and mobile applications to intuitive UI/UX designs, we prioritize user-centric approaches and cutting-edge technologies to ensure your business achieves its goals effectively. </p>
-                <p className='md:pr-20 text-sm  mb-8 '>Our mission is to help businesses succeed by leveraging technology, creating meaningful experiences for users, and fostering growth. With a focus on transparency and collaboration, we aim to build lasting relationships with our clients.
+                <p className='md:pr-20 mb-4 text-sm'>At <span className='font-bold'>Chakra Code Services</span > we are passionate about turning ideas into reality through innovative technology solutions. Founded with the vision to empower businesses, we specialize in delivering high-quality software and application development services that cater to diverse needs, whether you’re a startup seeking to make your mark or an established organization aiming to enhance your digital presence.
                 </p>
                 {/* <button className='py-6 px-14 border-2 rounded-full hover:bg-white hover:text-black transition-all ease-in-out duration-300 hover:scale-[1.2]'>Download CV</button> */}
               </div>

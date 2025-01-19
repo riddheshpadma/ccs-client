@@ -30,7 +30,7 @@ const index = () => {
                         </div>
                         <div className='flex flex-col items-center justify-center p-4 mt-10 '>
                             <h1 className='text-xl md:text-2xl font-bold'>Initiation & Planning</h1>
-                            <p className='text-lg text-gray-400 text-center'>We are architects innovation trailblazers of technological advancement</p>
+                            <p className='text-lg text-gray-400 text-center'>Start strong with strategic planning for success.</p>
                         </div>
                     </div>
                     <div className='flex flex-col justify-center items-center'>
@@ -40,7 +40,7 @@ const index = () => {
                         </div>
                         <div className='flex flex-col items-center justify-center p-4 mt-10 '>
                             <h1 className='text-xl md:text-2xl font-bold'>Execution & Development</h1>
-                            <p className='text-lg text-gray-400 text-center'>We are architects innovation trailblazers of technological advancement</p>
+                            <p className='text-lg text-gray-400 text-center'>Turning plans into impactful digital solutions.</p>
                         </div>
                     </div>
                     <div className='flex flex-col justify-center items-center'>
@@ -50,7 +50,7 @@ const index = () => {
                         </div>
                         <div className='flex flex-col items-center justify-center p-4 mt-10 '>
                             <h1 className='text-xl md:text-2xl font-bold'>Testing & Maintenance</h1>
-                            <p className='text-lg text-gray-400 text-center'>We are architects innovation trailblazers of technological advancement</p>
+                            <p className='text-lg text-gray-400 text-center'>Ensuring quality with thorough testing and ongoing support.</p>
                         </div>
                     </div>
                 </div>

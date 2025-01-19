@@ -12,7 +12,7 @@ const ContactUs = () => {
       <section id='contact' className='text-black '>
         <div className='flex flex-col items-center justify-center h-1/2 bg-primaryColor text-white py-28 px-5'>
           <h1 className='text-3xl md:text-6xl font-bold mb-6'>Lets work together!</h1>
-          <p className='text-sm md:text-xl max-w-2xl text-center mb-8'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus sed ullam alias, veniam placeat voluptas unde cum excepturi repellat commodi.</p>
+          <p className='text-sm md:text-xl max-w-2xl text-center mb-8'>Let’s transform your ideas into reality with innovative solutions that drive success, create impact, and bring your vision to life.</p>
 
           <Link to='/getstarted'>
             <button

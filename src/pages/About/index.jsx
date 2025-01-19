@@ -16,7 +16,7 @@ const index = () => {
             <section className='bg-[#FAFAFA]'>
                 <div className='flex flex-col justify-center items-center bg-primaryColor h-screen text-white'>
                     <h1 className='text-3xl md:text-5xl font-bold'>Aproach and Philosophy</h1>
-                    <p className='text-sm md:text-lg mt-4 max-w-2xl text-center'>At Chakra Code, we are dedicated to crafting innovative, scalable, and efficient software solutions tailored to your needs.</p>
+                    <p className='text-sm md:text-lg mt-2 max-w-2xl text-center'>Emphasize your commitment to deadlines, quality, and tailored solutions.</p>
                     <Link to='/getstarted'>
                         <button className='px-8 py-3 mt-10 bg-white hover:bg-tirtaryColor text-primaryColor hover:text-white transition-all ease-in-out duration-500'>
                             Let's Build Together
